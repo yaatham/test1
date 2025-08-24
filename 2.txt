@@ -1,6 +1,4 @@
+
 test script from online
-<<<<<<< HEAD
 second line from local edit
-=======
 3 rd edit from Online
->>>>>>> bf1fa28e765b2840af6e30d96837b40feaab935a
